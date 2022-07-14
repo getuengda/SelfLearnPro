@@ -25418,7 +25418,7 @@ class Board extends _reactDefault.default.Component {
             onClick: ()=>this.props.onClick(i)
         }, void 0, false, {
             fileName: "src/Board.js",
-            lineNumber: 8,
+            lineNumber: 7,
             columnNumber: 9
         }, this);
     }
@@ -25434,7 +25434,7 @@ class Board extends _reactDefault.default.Component {
                     ]
                 }, void 0, true, {
                     fileName: "src/Board.js",
-                    lineNumber: 18,
+                    lineNumber: 17,
                     columnNumber: 11
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
@@ -25446,7 +25446,7 @@ class Board extends _reactDefault.default.Component {
                     ]
                 }, void 0, true, {
                     fileName: "src/Board.js",
-                    lineNumber: 23,
+                    lineNumber: 22,
                     columnNumber: 11
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
@@ -25458,13 +25458,13 @@ class Board extends _reactDefault.default.Component {
                     ]
                 }, void 0, true, {
                     fileName: "src/Board.js",
-                    lineNumber: 28,
+                    lineNumber: 27,
                     columnNumber: 11
                 }, this)
             ]
         }, void 0, true, {
             fileName: "src/Board.js",
-            lineNumber: 17,
+            lineNumber: 16,
             columnNumber: 9
         }, this);
     }

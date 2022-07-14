@@ -1,18 +1,15 @@
 # React Class Components
 Tic Tac Toe
 ## Objectives
-- Review of what react components are.
-- What is a react Class component?
-- Why do we need to learn how to write class components?
-- what is this.state
-- how to update state
-- how to pass props to other components
+- Learn What is a react Class component?
+- Exercise how to write class components?
+- Understand and apply this.state and how to update state
+- Understand and apply how to pass props to other components
 
-
-## React Class Components
-
-
-
-## Class component state
-
-## How to update state
+# Major Home takes
+    ## React Class Components
+    ## Class component state
+    ## How to update state
+## Instruction 
+- npm i (to install required dependecies)
+- npm run start-dev (to run the app)
